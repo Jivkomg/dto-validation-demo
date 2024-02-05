@@ -8,7 +8,7 @@
         <version>2.7.17</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.paysafe.demo</groupId>
+    <groupId>com.dto.demo</groupId>
     <artifactId>dto-validation-demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>dto-validation-demo</name>
