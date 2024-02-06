@@ -75,3 +75,4 @@ A custom validator (`NotBlankIfAnotherFieldHasValueValidator`) is implemented to
 ## Conclusion
 
 This project serves as a comprehensive example of how to use Spring's annotation-based validation to enhance the robustness of your application by ensuring data correctness and adherence to business rules.
+For more information check out my article about [SpringBoot DTO Validation](https://medium.com/paysafe-bulgaria/springboot-dto-validation-good-practices-and-breakdown-fee69277b3b0)
